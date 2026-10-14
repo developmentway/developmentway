@@ -1,9 +1,9 @@
 # William Nyang'or
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=E6E6E6&background=00000000&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=1A1A1A&background=00000000&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems" />
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=1A1A1A&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems" alt="typing animation" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=E6E6E6&background=00000000&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems;Order+from+chaos" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=1A1A1A&background=00000000&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems;Order+from+chaos" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&duration=2800&pause=1400&color=1A1A1A&center=false&vCenter=true&width=640&lines=AI+%26+Data+Platform+Engineer;AI+Agents%2C+Data+Pipelines%2C+Business+Intelligence;Turning+business+requirements+into+reliable+production+systems;Order+from+chaos" alt="typing animation" />
 </picture>
 
 <br/>
