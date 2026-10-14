@@ -25,12 +25,12 @@ I like projects that start as "this process is a mess" and end as software someo
 ### GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=developmentway&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000" />
-  <img src="https://github-readme-stats.vercel.app/api?username=developmentway&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=williamnyangor&show_icons=true&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=williamnyangor&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=developmentway&theme=github-dark-blue&hide_border=true&background=00000000" />
-  <img src="https://streak-stats.demolab.com/?user=developmentway&theme=default&hide_border=true" alt="GitHub streak stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=williamnyangor&theme=github-dark-blue&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com/?user=williamnyangor&theme=default&hide_border=true" alt="GitHub streak stats" />
 </picture>
 
 ### Get in touch
