@@ -10,16 +10,16 @@
 
 I am a technology professional with over four years of experience designing, building, and supporting production data and AI platforms, the kind that quietly do their job every day. I work across two connected pillars
 
-→ AI platform engineering — agent orchestration, retrieval-augmented generation, LLM gateway integration, and cloud deployment.<br/>
-→ Data platform and Business Intelligence engineering — ETL pipeline development, analytical data modelling, dashboard delivery, and data quality.
+- → AI platform engineering — agent orchestration, retrieval-augmented generation, LLM gateway integration, and cloud deployment.
+- → Data platform and Business Intelligence engineering — ETL pipeline development, analytical data modelling, dashboard delivery, and data quality.
 
 I translate business and programme requirements into systems that are grounded, observable, and reliable in production, and I support them after release through documentation, second-line support, and structured training.
 
 I care about three things
 
-→ Getting the facts right.<br/>
-→ Keeping systems running.<br/>
-→ Making sure people feel confident using what I build.
+- → Getting the facts right.
+- → Keeping systems running.
+- → Making sure people feel confident using what I build.
 
 If something is slowing your team down, I'd love to hear about it.
 
