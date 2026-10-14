@@ -69,7 +69,6 @@ If something is slowing your team down, I'd love to hear about it.
   <img src="https://streak-stats.demolab.com/?user=williamnyangor&theme=default&hide_border=true" alt="GitHub streak stats" />
 </picture>
 
-*Private-repo activity only shows up here once [private contributions](https://github.com/settings/profile) are included on the profile — it doesn't expose any code, just the count.*
 
 ### Get in touch
 
