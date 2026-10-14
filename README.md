@@ -8,12 +8,22 @@
 
 <br/>
 
-I'm a technology professional based in Nairobi, Kenya, with four-plus years designing, building, and supporting production data and AI platforms. My work sits across two connected pillars:
+I am a technology professional with over four years of experience designing, building, and supporting production data and AI platforms, the kind that quietly do their job every day. I work across two connected pillars
 
-- **AI platform engineering** — agent orchestration, retrieval-augmented generation, and LLM gateway integration
-- **Data platform engineering** — ETL pipelines, analytical data modelling, and BI dashboard delivery
+→ AI platform engineering — agent orchestration, retrieval-augmented generation, LLM gateway integration, and cloud deployment.<br/>
+→ Data platform and Business Intelligence engineering — ETL pipeline development, analytical data modelling, dashboard delivery, and data quality.
 
-I care about systems that are grounded and observable in production, not just demos: deterministic guardrails around what a model is allowed to decide, audit trails for the numbers that matter, and documentation that survives after I hand a project off. My work has spanned Finance, Agriculture, Research & Innovation, Social Impact, Sustainability, and HR — mostly for teams that needed to stop depending on IT, or on me, for every report.
+I translate business and programme requirements into systems that are grounded, observable, and reliable in production, and I support them after release through documentation, second-line support, and structured training.
+
+I care about three things
+
+→ Getting the facts right.<br/>
+→ Keeping systems running.<br/>
+→ Making sure people feel confident using what I build.
+
+If something is slowing your team down, I'd love to hear about it.
+
+*Simplex sigillum veri. Simplicity is the mark of truth* 🧭
 
 ### What I work with
 
