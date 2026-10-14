@@ -12,7 +12,7 @@ I am a technology professional with over four years of experience designing, bui
 
 - AI platform engineering — agent orchestration, retrieval-augmented generation, LLM gateway integration, and cloud deployment.
 - Data platform and Business Intelligence engineering — ETL pipeline development, analytical data modelling, dashboard delivery, and data quality.
-- Full-stack web solution delivery — Laravel, Inertia, and React platforms that turn agent and data work into interfaces people actually use, like the TOIL Calculator for Worldwide EduConnect.
+- Full-stack web solution delivery — Laravel, Inertia, and React platforms that turn agent and data work into interfaces people actually use.
 
 I translate business and programme requirements into systems that are grounded, observable, and reliable in production, and I support them after release through documentation, second-line support, and structured training.
 
