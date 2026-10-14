@@ -8,9 +8,9 @@
 
 <br/>
 
-I build and ship full-stack products end to end — mostly Laravel on the backend, React and Inertia on the front. Lately that's meant fewer plain CRUD apps and more systems with an AI agent doing real work inside them: turning natural language into SQL, pulling structured data out of documents, or automating the part of a workflow nobody wants to do by hand.
+I'm a technology professional based in Nairobi, Kenya, with four-plus years designing, building, and supporting production data and AI platforms. My work sits across two connected pillars: **AI platform engineering** — agent orchestration, retrieval-augmented generation, and LLM gateway integration — and **data platform engineering** — ETL pipelines, analytical data modelling, and BI dashboard delivery.
 
-I like projects that start as "this process is a mess" and end as software someone actually relies on every day.
+I care about systems that are grounded and observable in production, not just demos: deterministic guardrails around what a model is allowed to decide, audit trails for the numbers that matter, and documentation that survives after I hand a project off. My work has spanned Finance, Agriculture, Research & Innovation, Social Impact, Sustainability, and HR — mostly for teams that needed to stop depending on IT, or on me, for every report.
 
 ### What I work with
 
@@ -37,9 +37,9 @@ I like projects that start as "this process is a mess" and end as software someo
 
 ### What I'm focused on right now
 
-- **HR & workforce tooling** — leave/TOIL calculators and the policy logic that drives them
-- **AI agents for structured tasks** — text-to-SQL, OCR/document extraction, recruiting workflow automation
-- **Recruiting & hiring platforms** — from applicant tracking to intercountry placement tools
+- **A LangGraph multi-agent advisory platform** — supervisor-routed agents, PostgreSQL-checkpointed state, and a PGVector RAG layer with deterministic SQL guardrails so a model never invents a result
+- **TOIL Calculator, a production HR platform for Worldwide EduConnect** — Laravel, Inertia, and React, with a policy-encoded leave calculation engine, OCR-assisted travel claims, and role-based access across 70+ permission cases
+- **Security auditing end to end** — finding and closing real vulnerabilities through live exploitation, backed by a regression test for every fix
 
 ### GitHub stats
 
@@ -48,9 +48,15 @@ I like projects that start as "this process is a mess" and end as software someo
   <img src="https://github-readme-stats.vercel.app/api?username=williamnyangor&show_icons=true&count_private=true&theme=default&hide_border=true" alt="GitHub stats" />
 </picture>
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=williamnyangor&layout=compact&count_private=true&theme=github_dark&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=williamnyangor&layout=compact&count_private=true&theme=default&hide_border=true" alt="Top languages" />
+</picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=williamnyangor&theme=github-dark-blue&hide_border=true&background=00000000" />
   <img src="https://streak-stats.demolab.com/?user=williamnyangor&theme=default&hide_border=true" alt="GitHub streak stats" />
 </picture>
+
+*Private-repo activity only shows up here once [private contributions](https://github.com/settings/profile) are included on the profile — it doesn't expose any code, just the count.*
 
 ### Get in touch
 
