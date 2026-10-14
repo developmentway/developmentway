@@ -53,7 +53,6 @@ If something is slowing your team down, I'd love to hear about it.
 
 - **A LangGraph multi-agent academic advisory platform** — supervisor-routed agents, PostgreSQL-checkpointed state, and a PGVector RAG layer with deterministic SQL guardrails so a model never invents a result
 - **TOIL Calculator, a production HR platform for Worldwide EduConnect** — Laravel, Inertia, and React, with a policy-encoded leave calculation engine, OCR-assisted travel claims, and role-based access across 70+ permission cases
-- **Security auditing end to end** — finding and closing real vulnerabilities through live exploitation, backed by a regression test for every fix
 
 ### GitHub stats
 
