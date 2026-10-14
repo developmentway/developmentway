@@ -14,7 +14,26 @@ I like projects that start as "this process is a mess" and end as software someo
 
 ### What I work with
 
-<img src="https://skillicons.dev/icons?i=laravel,php,js,ts,react,tailwind,mysql,postgres,python,docker,git,linux" alt="tech stack icons" />
+**Languages & frameworks**
+<br/>
+<img src="https://skillicons.dev/icons?i=python,ts,js,php,bash,laravel,fastapi,react,tailwind,vite" alt="languages and frameworks" />
+
+**Data & infrastructure**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,aws,githubactions,ubuntu,git" alt="data and infrastructure" />
+
+**AI & LLM engineering**
+<br/>
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-1C3C3C?style=flat-square)
+![PGVector](https://img.shields.io/badge/PGVector-1C3C3C?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-1C3C3C?style=flat-square&logo=pydantic&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-1C3C3C?style=flat-square&logo=amazonaws&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic%20Claude-1C3C3C?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-1C3C3C?style=flat-square&logo=ollama&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square)
+![MCP](https://img.shields.io/badge/MCP-1C3C3C?style=flat-square)
 
 ### What I'm focused on right now
 
