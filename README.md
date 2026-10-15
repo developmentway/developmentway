@@ -51,8 +51,8 @@ If something is slowing your team down, I'd love to hear about it.
 
 ### What I'm focused on right now
 
-- **A LangGraph multi-agent academic advisory platform** — supervisor-routed agents, PostgreSQL-checkpointed state, and a PGVector RAG layer with deterministic SQL guardrails so a model never invents a result
-- **TOIL Calculator, a production HR platform for a leading international education agency** — Laravel, Inertia, and React, with a policy-encoded leave calculation engine, OCR-assisted travel claims, and role-based access across 70+ permission cases
+- **A LangGraph multi-agent academic advisory platform** — supervisor-routed agents, PostgreSQL-checkpointed state, and a PGVector RAG layer with deterministic SQL guardrails so a model never invents a result.
+- **TOIL Calculator, a production HR platform for a leading international education agency** — Laravel, Inertia, and React, with a policy-encoded leave calculation engine, OCR-assisted travel claims, and role-based access across 70+ permission cases.
 
 ### GitHub stats
 
